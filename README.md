@@ -1,16 +1,6 @@
 # tewkr
+tewkr 的第三方APP 讓您方便查詢課程的評價
 
-A new Flutter project.
+![image](https://github.com/user-attachments/assets/705452b4-4ca1-4f28-894b-ef06028d8cb9)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/bd54b8cb-a271-4272-989a-eba515bc2692)
