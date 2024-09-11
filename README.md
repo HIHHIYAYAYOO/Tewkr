@@ -1,16 +1,33 @@
-# tewkr
+# Tewkr
 
-A new Flutter project.
+* Tewkr 此為 https://tewkr.com/ 的第三方APP，讓您無須登入便可方便查詢課程的評價。
+* 此應用程式提供簡潔的界面，輕鬆搜尋並檢視各類課程的詳細資訊和用戶評論。👍
 
-## Getting Started
+## 特點
+- 無需登入即可使用
+- 便捷的搜尋功能
+- 詳盡的課程評價和資訊
 
-This project is a starting point for a Flutter application.
+## 螢幕截圖
 
-A few resources to get you started if this is your first Flutter project:
+螢幕截圖，主要功能和界面：
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/705452b4-4ca1-4f28-894b-ef06028d8cb9" width="45%" />
+  <img src="https://github.com/user-attachments/assets/bd54b8cb-a271-4272-989a-eba515bc2692" width="45%" />
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 安裝和使用
+
+1. 下載此專案：
+   ```bash
+   git clone https://github.com/HIHHIYAYAYOO/Tewkr.git
+
+2. 安裝依賴：
+   ```bash
+   cd tewkr
+   flutter pub get
+  
+3. 運行應用程式：
+   ```bash
+   flutter run
