@@ -13,7 +13,7 @@
 螢幕截圖，主要功能和界面：
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/705452b4-4ca1-4f28-894b-ef06028d8cb9" width="45%" />
+  <img src="https://github.com/user-attachments/assets/ff176658-d031-445e-8c03-9ec4c9f96ce0" width="45%" />
   <img src="https://github.com/user-attachments/assets/bd54b8cb-a271-4272-989a-eba515bc2692" width="45%" />
 </div>
 
