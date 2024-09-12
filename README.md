@@ -14,7 +14,7 @@
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ff176658-d031-445e-8c03-9ec4c9f96ce0" width="45%" />
-  <img src="https://github.com/user-attachments/assets/bd54b8cb-a271-4272-989a-eba515bc2692" width="45%" />
+  <img src="https://github.com/user-attachments/assets/2572bf99-6b79-4601-bc0d-6d1c5acac7da" width="45%" />
 </div>
 
 ## 安裝和使用
