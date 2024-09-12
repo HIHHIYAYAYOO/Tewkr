@@ -3,8 +3,8 @@ import 'package:flutter/rendering.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'dart:typed_data';
-import 'package:brotli/brotli.dart';
-import 'package:intl/intl.dart';
+import 'package:brotli/brotli.dart'; // 需要brotli來解壓縮
+import 'package:intl/intl.dart'; // 用於時間格式化
 
 void main() {
   runApp(const MyApp());
