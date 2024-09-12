@@ -2,7 +2,8 @@
 
 * Tewkr 此為 https://tewkr.com/ 的第三方APP，讓您無須登入便可方便查詢課程的評價。
 * 此應用程式提供簡潔的界面，輕鬆搜尋並檢視各類課程的詳細資訊和用戶評論。👍
-* [下載連結](https://github.com/HIHHIYAYAYOO/Tewkr/releases/tag/flutter)
+* [網頁版](https://hihhiyayayoo.github.io/Tewkr/)
+* [Android APP 下載連結](https://github.com/HIHHIYAYAYOO/Tewkr/releases/tag/flutter)
 
 ## 特點
 - 無需登入即可使用
