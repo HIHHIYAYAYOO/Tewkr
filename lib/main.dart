@@ -170,7 +170,7 @@ class _SearchPageState extends State<SearchPage> {
             ),
             Text('${item['school_name']} - ${item['year']} - ${item['department']}'),
             const SizedBox(height: 10),
-            Text(item['comment'].replaceAll('<br/>', '\n')),
+            Text(item['comment'].replaceAll('<br />', '\n')),
             const SizedBox(height: 10),
             Text('推薦: ${item['recommend']} 難易: ${item['hard']}'),
             Text('日期: ${formatTimestamp(item['timestamp'])}'),
